@@ -1,0 +1,48 @@
+{
+  "StudentDetail": [
+    {
+      "id": 1,
+      "sid": "1001",
+      "name": "mahendran",
+      "course": "Angular",
+      "mobile": "9632548710",
+      "email": "mahi@gmail.com",
+      "dateofjoining": "2023-10-20"
+    },
+    {
+      "id": 2,
+      "sid": "1002",
+      "name": "dharani",
+      "course": "full stack",
+      "mobile": "7655425301",
+      "email": "dharani@gmail.com",
+      "dateofjoining": "2023-12-01"
+    }
+  ],
+  "Registration": [
+    {
+      "id": 1,
+      "name": "dharani",
+      "email": "dharani@gmail.com",
+      "mobile": "7894560321",
+      "password": "dharani",
+      "conformpassword": "dharani"
+    },
+    {
+      "id": 2,
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "mobile": "7964130258",
+      "password": "sai123",
+      "conformpassword": "sai123"
+    },
+    {
+      "id": 3,
+      "name": "vijai",
+      "email": "vijai@gmail.com",
+      "mobile": "8886549712",
+      "password": "vijai123",
+      "conformpassword": "vijai123"
+    }
+  ]
+}
